@@ -12,7 +12,7 @@ Have beautiful family: 👩‍🦱 & 👧👦👦👦👦👶 kids.
 
 👯 I’m looking to collaborate on my personal projects:
 - [WorkoutApp](https://github.com/maciekbanas/WorkoutApp) (built with `shinyMobile`),
-- [jsonframe](https://github.com/maciekbanas/jsonframe) - moving simple data processing from `shiny` server to browser.
+- [jsonframe](https://github.com/maciekbanas/jsonframe) - moving simple data processing from `shiny` server to the browser.
 
 <!--
 
