@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I ❤️ R programming.
+I ❤️ R programming. ❤️ objected-oriented approach with `R6` and experimenting with `JavaScript` in `shiny`.
 
 I train calisthenics 💪. 
 
