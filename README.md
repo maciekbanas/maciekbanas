@@ -3,9 +3,6 @@
 I ❤️ R programming. ❤️ objected-oriented approach with `R6` and experimenting with `JavaScript` in `shiny`.
 
 I train calisthenics 💪. 
-
-In free time I play (or rather would like to) 🎻, 🎸 and 🪈.
-
 Have beautiful family: 👩‍🦱 & 👧👦👦👦👦👶 kids.
 
 🔭 I’m currently working on [GitAI](https://github.com/r-world-devs/GitAI) and [GitStats](https://github.com/r-world-devs/GitStats) projects.
@@ -13,6 +10,12 @@ Have beautiful family: 👩‍🦱 & 👧👦👦👦👦👶 kids.
 👯 I’m looking to collaborate on my personal projects:
 - [WorkoutApp](https://github.com/maciekbanas/WorkoutApp) (built with `shinyMobile`),
 - [jsonframe](https://github.com/maciekbanas/jsonframe) - moving simple data processing from `shiny` server to the browser.
+
+Keen to 🧑‍🎓 more about:
+- Bayesian statistics,
+- 🐍 Python,
+- C++,
+- creating games.
 
 <!--
 
