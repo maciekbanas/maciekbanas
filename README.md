@@ -8,7 +8,7 @@ Have beautiful family: 👩‍🦱 & 👧👦👦👦👦👶 kids.
 I am a Christian ✝️ and believe that God wants to make us happy and really fulfilled (every one of us!).
 
 👯 I’m looking to collaborate on my personal projects:
-- [WorkoutApp](https://github.com/maciekbanas/WorkoutApp) (built with `shinyMobile`),
+- [WorkoutApp](https://github.com/maciekbanas/WorkoutApp) (built with [shinyMobile](https://github.com/RinteRface/shinyMobile)),
 - [jsonframe](https://github.com/maciekbanas/jsonframe) - moving simple data processing from `shiny` server to the browser.
 
 Keen to 🧑‍🎓 more about:
