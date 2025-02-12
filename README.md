@@ -5,7 +5,7 @@ I ❤️ R programming. ❤️ objected-oriented approach with `R6` and experime
 I train calisthenics 💪. 
 Have beautiful family: 👩‍🦱 & 👧👦👦👦👦👶 kids.
 
-🔭 I’m currently working on [GitAI](https://github.com/r-world-devs/GitAI) and [GitStats](https://github.com/r-world-devs/GitStats) projects.
+I am a Christian ✝️ and believe that God wants to make us happy and really fulfilled (every one of us!).
 
 👯 I’m looking to collaborate on my personal projects:
 - [WorkoutApp](https://github.com/maciekbanas/WorkoutApp) (built with `shinyMobile`),
@@ -16,6 +16,8 @@ Keen to 🧑‍🎓 more about:
 - 🐍 Python,
 - C++,
 - creating games.
+
+🔭 I’m currently working on [GitAI](https://github.com/r-world-devs/GitAI) and [GitStats](https://github.com/r-world-devs/GitStats) projects.
 
 <!--
 
