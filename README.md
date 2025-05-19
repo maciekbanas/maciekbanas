@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-I ❤️ R programming. ❤️ objected-oriented approach with `R6` and experimenting with `JavaScript` in `shiny`.
-
-I train calisthenics 💪. 
-Have beautiful family: 👩‍🦱 & 👧👦👦👦👦👶 kids.
-
-I am a Christian ✝️ and believe that God wants to make us happy and really fulfilled (every one of us!).
+I ❤️ R programming, objected-oriented approach with `R6` and experimenting with `JavaScript` in `shiny`.
 
 👯 I’m looking to collaborate on my personal projects:
 - [WorkoutApp](https://github.com/maciekbanas/WorkoutApp) (built with [shinyMobile](https://github.com/RinteRface/shinyMobile)),
@@ -17,7 +12,6 @@ Keen to 🧑‍🎓 more about:
 - C++,
 - creating games.
 
-🔭 I’m currently working on [GitAI](https://github.com/r-world-devs/GitAI) and [GitStats](https://github.com/r-world-devs/GitStats) projects.
 
 <!--
 
