@@ -8,7 +8,6 @@ I ❤️ R programming, objected-oriented approach with `R6` and experimenting w
 
 Keen to 🧑‍🎓 more about:
 - Bayesian statistics,
-- 🐍 Python,
 - C++,
 - creating games.
 
