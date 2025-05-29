@@ -2,9 +2,9 @@
 
 I ❤️ R programming, objected-oriented approach with `R6` and experimenting with `JavaScript` in `shiny`.
 
-👯 I’m looking to collaborate on my personal projects:
-- [WorkoutApp](https://github.com/maciekbanas/WorkoutApp) (built with [shinyMobile](https://github.com/RinteRface/shinyMobile)),
-- [phaserR](https://github.com/maciekbanas/phaserR) - R interface to popular `phaser.js` game framework.
+I’m looking to 👯 collaborate on my personal projects:
+- 💪[WorkoutApp](https://github.com/maciekbanas/WorkoutApp) (built with [shinyMobile](https://github.com/RinteRface/shinyMobile)),
+- 🎮[phaserR](https://github.com/maciekbanas/phaserR) - R interface to popular `phaser.js` game framework.
 
 Keen to 🧑‍🎓 more about:
 - Bayesian statistics,
