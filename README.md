@@ -4,7 +4,7 @@ I ❤️ R programming, objected-oriented approach with `R6` and experimenting w
 
 👯 I’m looking to collaborate on my personal projects:
 - [WorkoutApp](https://github.com/maciekbanas/WorkoutApp) (built with [shinyMobile](https://github.com/RinteRface/shinyMobile)),
-- [jsonframe](https://github.com/maciekbanas/jsonframe) - moving simple data processing from `shiny` server to the browser.
+- [phaserR](https://github.com/maciekbanas/phaserR) - R interface to popular `phaser.js` game framework.
 
 Keen to 🧑‍🎓 more about:
 - Bayesian statistics,
